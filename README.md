@@ -3,7 +3,7 @@ Hacii_ ve BerkPW'nin ortak projesi olan Sbtn.js'nin amacı basit bir yapıda jav
 
 ***
 
-###Kullanımı
+### Kullanımı
 İlk olarak `head` tagının arasına css ve js dosyalarını çağırınız.
 ```html
 <link rel="stylesheet" href="https://raw.githubusercontent.com/BerkPW/sbtn.js/master/css/sbtn.css">
