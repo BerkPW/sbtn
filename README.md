@@ -26,7 +26,7 @@ sbtn("sureli_a", {}, 8);
 kodunu script tagları içinde ekleyin... 
 Böylelikle `sureli_a` id'li butonumuza 8 sn bekleme verdik.
 
-####Ayarlar
+#### Ayarlar
 sbtn fonksyonunda ayarlar kısmı json ile oluşturulur.
 ```js
 sbtn("sureli_a", {
